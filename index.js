@@ -11,7 +11,7 @@ function johnLennonFacts (facts) {
   let i = 0;
   while (i < facts.length) {
     happyFacts.push (`${facts [i]}!!!`)
-    i++
+    i++;
   }
   return happyFacts;
 }
